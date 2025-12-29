@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moshe Cezana</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Moshe Cezana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Moshe Cezana</copyright>
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Knesset</title>
+      <link>//localhost:1313/work/knesset/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/work/knesset/</guid>
+      <description>A tailored dashboard designed for the CEO of the Israeli Knesset, consolidating multiple unmanaged video feeds into a single, intuitive interface for efficient meeting management.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/knesset/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>L.M. Personnel Services</title>
+      <link>//localhost:1313/work/lm/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/work/lm/</guid>
+      <description>Streamlining recruitment processes with a unified platform, integrating dashboards, messaging, onboarding tools, and user management to enhance communication and operational efficiency across branches.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/lm/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Rambam Advanced Training in Nursing</title>
+      <link>//localhost:1313/work/rambam/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/work/rambam/</guid>
+      <description>Modernizing the administration of nursing studies through a dynamic LMS platform, ensuring seamless communication channels throughout all processes of students&amp;rsquo; admission.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/rambam/cover.png" />
+    </item>
+    
+    <item>
+      <title>HolistiCyber</title>
+      <link>//localhost:1313/work/holisticyber/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/work/holisticyber/</guid>
+      <description>Cybersecurity platform that facilitates the creation of comprehensive plans through data-driven defense strategies, promoting clarity across organization&amp;rsquo;s departments.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/holisticyber/cover.jpeg" />
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/moshe.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Hi, my name is Moshe and I&amp;rsquo;m a Senior Product Designer specializing in user-centered, end-to-end design for complex B2B platforms.&lt;/p&gt;
+&lt;p&gt;With over 8 years of experience, I’ve led UX/UI design across web and mobile products in industries like cybersecurity, healthcare, education, logistics, and real estate. I work closely with product managers and developers to translate real user needs into intuitive, scalable solutions - from research and wireframes to high-fidelity UI and handoff. I also build and maintain design systems in Figma to ensure consistency and speed at scale.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
