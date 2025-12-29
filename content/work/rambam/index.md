@@ -152,7 +152,7 @@ Most importantly, the system replaced uncertainty with structure.
 
 This project reinforced how impactful good UX can be in environments that are not traditionally digital-first.
 
-By respecting existing workflows and focusing on clarity, the system became something staff could rely on — not another tool they had to adapt to.
+By respecting existing workflows and focusing on clarity, the system became something staff could rely on and not another tool they had to adapt to.
 
 If I were to continue this project, I would focus on long-term usage patterns and further simplify high-frequency tasks based on real usage data.
 
