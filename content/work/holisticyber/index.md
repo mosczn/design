@@ -5,7 +5,7 @@ date: 2025-01-01
 draft: false
 ---
 
-# HolistiCyber — Making Cyber Defense Easier to Reason About
+# Making Cyber Defense Easier to Reason About
 
 {{< lead >}}
 This project came out of working closely with cybersecurity professionals and trying to understand what actually slows them down in day-to-day decision making.  
