@@ -1,7 +1,7 @@
 ---
 title: "HolistiCyber"
 summary: "A cybersecurity planning platform designed to help CISOs make sense of complex threat data and turn it into clear, actionable defense plans."
-date: 2025-01-01
+date: 2025-12-12
 draft: false
 ---
 
@@ -9,7 +9,7 @@ draft: false
 
 {{< lead >}}
 This project came out of working closely with cybersecurity professionals and trying to understand what actually slows them down in day-to-day decision making.  
-The goal wasn’t to add more data — it was to make existing information easier to see, search, and act on.
+The goal wasn’t to add more data, it was to make existing information easier to see, search, and act on.
 {{< /lead >}}
 
 | Date       | Client        | Role        |
@@ -17,8 +17,6 @@ The goal wasn’t to add more data — it was to make existing information easie
 | 2023–2024  | HolistiCyber  | UX/UI Designer |
 
 <br/>
-
-![](/pic1.svg "HolistiCyber Dashboard")
 
 ---
 
@@ -30,7 +28,7 @@ During early conversations with CISOs and security stakeholders, a few recurring
 - Important system updates were easy to miss, buried across different views.
 - Budgeting for security initiatives often relied on rough estimates rather than clear calculations.
 
-None of these issues were dramatic on their own, but together they created friction, uncertainty, and slower decision-making — especially in moments where clarity really matters.
+None of these issues were dramatic on their own, but together they created friction, uncertainty, and slower decision-making in moments where clarity really matters.
 
 ---
 
@@ -59,7 +57,7 @@ Through interviews and workflow reviews with CISOs and stakeholders, I tried to 
 - What makes budgeting conversations difficult or unclear
 
 One thing became very clear:  
-they weren’t asking for more features — they were asking for less confusion.
+they weren’t asking for more features they were asking for less confusion.
 
 ---
 
@@ -71,9 +69,14 @@ Based on these insights, I explored several ideas and iterated closely with feed
 I designed a side panel that surfaces important system updates without interrupting the main workflow.  
 The intention was simple: let users stay aware of what’s happening without constantly switching context.
 
+![](/pic2.svg "Side Updates Panel showing real-time system changes")
+
 #### Intelligent Search (ChatGPT-powered)
 Because task naming was inconsistent, traditional search wasn’t reliable.  
 The search experience was designed to focus on user intent, allowing people to find what they need even when terminology varies.
+
+![](/pic3.svg "Intent-based search interpreting user queries beyond exact task naming")
+
 
 #### Cybersecurity Expense Calculator
 To support planning and budgeting, I designed an expense calculator that helps estimate the cost of different security initiatives.  
@@ -111,7 +114,7 @@ The product helped teams focus more on decision-making and less on navigating th
 ## Reflection
 
 This project reinforced something I strongly believe in:  
-good UX isn’t about simplifying reality — it’s about helping people think more clearly within it.
+good UX isn’t about simplifying reality it’s about helping people think more clearly within it.
 
 Working on HolistiCyber pushed me to design for complexity without overwhelming the user, and to respect the mental load that cybersecurity leaders already carry.
 
@@ -119,5 +122,5 @@ With more time, I would continue validating the system through usability testing
 
 ---
 
-*If you’re interested in working together on complex, high-stakes systems —*  
+*If you’re interested in working together on complex, high-stakes systems*  
 **[let’s connect.](mailto:mos.czn@gmail.com)**
