@@ -1,6 +1,7 @@
 <p class="fancy">Hi! I'm Moshe,</p>
 <br>
+<p class="lessfancy">UX/UI Designer</p>
 
 <p class="intro">
-I’m a UX/UI Designer who likes turning messy, complex systems into something people can actually use. I work from early discovery to final handoff while making sure everything is clear, consistent, and practical.
+I design clear, intuitive interfaces and systems that help teams build better products. From first sketch to final handoff, I make sure things work - for users and for the business.
 </p>
